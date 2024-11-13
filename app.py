@@ -24,9 +24,9 @@ chocolates = [
         "price": 6.49
     },
     {
-        "name": "Cream Chocolate",
+        "name": "Chocolate",
         "image": "https://m.media-amazon.com/images/I/61-pg5u+9pL.jpg",
-        "price": 12.99
+        "price": 15.49
     }
 ]
 
